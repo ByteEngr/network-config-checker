@@ -57,7 +57,7 @@ This tool is particularly useful for network administrators, security teams, and
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/akintunero/network-config-checker.git
+   git clone https://github.com/ByteEngr/network-config-checker.git
    cd network-config-checker
    ```
 
