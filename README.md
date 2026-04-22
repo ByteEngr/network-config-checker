@@ -260,11 +260,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Olúmáyòwá Akinkuehinmi** - [akintunero101@gmail.com](mailto:akintunero101@gmail.com)
+**Olúmáyòwá Akinkuehinmi** - [chimadurugoodness@gmail.com](mailto:chimadurugoodness@gmail.com)
 
-- GitHub: [@akintunero](https://github.com/akintunero)
-- LinkedIn: [Olúmáyòwá Akinkuehinmi](https://linkedin.com/in/akintunero)
-- Twitter: [@akintunero](https://twitter.com/akintunero)
+- GitHub: [@ByteEngr](https://github.com/ByteEngr)
+- LinkedIn: Goziechukwu Chima-Duru](https://www.linkedin.com/in/goziechukwuchimaduru/)
+
 
 ## 🤝 Support the Project
 
