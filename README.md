@@ -260,7 +260,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Olúmáyòwá Akinkuehinmi** - [chimadurugoodness@gmail.com](mailto:chimadurugoodness@gmail.com)
+**Goziechukwu Chima-Duru** - [chimadurugoodness@gmail.com](mailto:chimadurugoodness@gmail.com)
 
 - GitHub: [@ByteEngr](https://github.com/ByteEngr)
 - LinkedIn: Goziechukwu Chima-Duru](https://www.linkedin.com/in/goziechukwuchimaduru/)
@@ -275,12 +275,6 @@ If you find this project helpful, please consider:
 - 💡 **Suggesting** new features
 - 📝 **Contributing** code improvements
 - 📢 **Sharing** with your network
-
----
-
-**Built with ❤️ by Olúmáyòwá Akinkuehinmi for the network engineering community**
-
----
 
 ## Features
 
