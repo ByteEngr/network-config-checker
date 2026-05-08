@@ -300,7 +300,7 @@ If you find this project helpful, please consider:
 ### Clone the Repository
 
 ```
-git clone https://github.com/akintunero/network-config-checker.git
+git clone https://github.com/byteengr/network-config-checker.git
 cd network-config-checker
 ```
 
