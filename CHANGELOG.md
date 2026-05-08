@@ -142,6 +142,6 @@ To contribute to this changelog, please follow the [Keep a Changelog](https://ke
 
 For questions about releases or the project:
 
-- **Maintainer**: Olúmáyòwá Akinkuehinmi
-- **Email**: [akintunero101@gmail.com](mailto:akintunero101@gmail.com)
-- **GitHub**: [@akintunero](https://github.com/akintunero) 
+- **Maintainer**: Goziechukwu Chima-Duru
+- **Email**: [chimadurugoodness@gmail.com](mailto:chimadurugoodness@gmail.com)
+- **GitHub**: [@byteengr](https://github.com/byteengr) 
