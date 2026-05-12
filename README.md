@@ -213,10 +213,10 @@ network-config-checker/
 ## 📊 Recent Improvements
 
 ### v2.0.0 - Major Release (2025-07-27)
-- ✅ **Complete Architecture Overhaul**: Transformed from simple scripts to robust class-based system
-- ✅ **Professional CLI Interface**: Command-line arguments, help system, and verbose logging
-- ✅ **Multi-Format Reporting**: TXT, JSON, HTML, and CSV report generation
-- ✅ **Advanced Policy Engine**: Regex support, severity levels, and detailed analysis
+-  **Complete Architecture Overhaul**: Transformed from simple scripts to robust class-based system
+-  **Professional CLI Interface**: Command-line arguments, help system, and verbose logging
+-  **Multi-Format Reporting**: TXT, JSON, HTML, and CSV report generation
+-  **Advanced Policy Engine**: Regex support, severity levels, and detailed analysis
 - ✅ **Comprehensive Testing**: 80%+ test coverage with mocking and fixtures
 - ✅ **Code Quality**: Type hints, docstrings, and consistent formatting
 - ✅ **Open-Source Ready**: Complete documentation and community guidelines
